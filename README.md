@@ -10,3 +10,10 @@
 CairoP86/CairoP86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Calculadora de Promedios de Estudiantes
+
+Este repositorio incluye un pequeño ejemplo en Visual Basic que permite ingresar el nombre de un estudiante y tres notas. Al presionar el botón **Calcular Promedio** se valida que las notas estén entre 0 y 100 y se muestra si el estudiante ha aprobado o reprobado.
+
+El código se encuentra en [AverageCalculator.vb](AverageCalculator.vb).
+
