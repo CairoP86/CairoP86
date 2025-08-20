@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @CairoP86
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Airport Ticket Management System
 
-<!---
-CairoP86/CairoP86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This repository provides a minimal command-line application to manage flights and tickets for an airport.
+
+## Usage
+
+### Add a flight
+```bash
+python ticket_system.py add-flight FL123 Madrid Paris 180
+```
+
+### Book a ticket
+```bash
+python ticket_system.py book FL123 "Alice Smith"
+```
+
+### List flights
+```bash
+python ticket_system.py list-flights
+```
+
+### List tickets
+```bash
+python ticket_system.py list-tickets
+```
