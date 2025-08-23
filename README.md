@@ -7,15 +7,15 @@
 ---
 
 ## 🚀 Sobre mí
-- Actualmente curso el **3er cuatrimestre** en Ingeniería en Sistemas.  
-- Experiencia en **Visual Basic .NET**, **SQL Server** y **Java**.  
+- Actualmente curso el **4to cuatrimestre** en Ingeniería en Sistemas.  
+- Experiencia en  **Visual Basic .NET**, **SQL Server** y **Java**.  
 - Me interesa el desarrollo **Fullstack** y la **automatización de procesos**.  
 - Trabajo en ventas B2B en el área tecnológica, con enfoque consultivo.  
 
 ---
 
 ## 🛠️ Tecnologías que manejo
-- **Lenguajes:** Visual Basic .NET, Java, SQL  
+- **Lenguajes:** Visual Basic .NET, Java, SQL, Python  
 - **Bases de datos:** SQL Server, Oracle  
 - **Herramientas:** Visual Studio, GitHub, SQL Server Management Studio  
 
