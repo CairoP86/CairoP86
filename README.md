@@ -1,37 +1,69 @@
-# 👋 Hola, soy Cairo Pérez  
+# Hola, soy Cairo
 
-🎓 Estudiante de **Ingeniería en Sistemas**  
-💻 Apasionado por el desarrollo de software y las bases de datos  
-🏃‍♂️ Atleta de media maratón | 📚 Aprendiz constante | 👨‍👩‍👧 Papá orgulloso  
+💼 Ejecutivo Comercial | 💻 Estudiante de Ingeniería en Sistemas | 🚀 Construyendo productos reales
 
----
+Soy un profesional que combina ventas + tecnología + ejecución real.
+No solo vendo soluciones… también las entiendo, construyo y despliego.
 
-## 🚀 Sobre mí
-- Actualmente curso la carrera de Ingeniería en Sistemas.  
-- Experiencia (junior) en  **Visual Basic .NET**, **SQL Server** y **Java**.  
-- Me interesa el desarrollo **Fullstack** y la **automatización de procesos**.  
-- Trabajo en ventas B2B en el área tecnológica, con enfoque consultivo.  
+🚀 Actualmente trabajando en
+🔥 AYG CRM (SaaS real en producción)
 
----
+Sistema multiempresa para gestión de clientes, leads y trabajos.
 
-## 🛠️ Tecnologías que manejo
-- **Lenguajes:** Visual Basic .NET, Java, SQL, Python  
-- **Bases de datos:** SQL Server, Oracle  
-- **Herramientas:** Visual Studio, GitHub, SQL Server Management Studio  
+Lo importante aquí:
 
----
+Multi-tenant (seguridad por empresa)
+Backend en .NET + SQL Server
+Frontend en HTML/CSS/JS
+Deploy real en VPS con Nginx + HTTPS
 
-## 📌 Proyectos destacados
-- [SistemaAeropuerto](https://github.com/CairoP86/SistemaAeropuerto) ✈️ — Gestión de vuelos, tiquetes y pasajeros en VB.NET y SQL Server.  
-- [conexionBasedeDatosPF](https://github.com/CairoP86/conexionBasedeDatosPF) 🎶 — Conexión a BD de escuela de música con consultas en Windows Forms.  
-- [tablas-de-multiplicar-](https://github.com/CairoP86/tablas-de-multiplicar-) ➗ — Proyecto simple en consola para practicar VB.NET.  
+👉 Enlace: (pon aquí tu repo cuando lo publiques completo)
 
----
+🧠 Lo que sé hacer (de verdad)
+💻 Desarrollo
+ASP.NET Core (.NET 8)
+SQL Server (queries, procedimientos)
+HTML, CSS, JavaScript (Vanilla)
+APIs REST
+Autenticación con JWT
+⚙️ DevOps básico (esto te diferencia mucho)
+Deploy en VPS (Linux)
+Nginx (reverse proxy)
+HTTPS con Let's Encrypt
+Systemd services
+💼 Comercial (esto es tu arma secreta)
+Ventas B2B (6+ años)
+Apertura de mercado
+Cierre de negocios
+Enfoque consultivo
+🎯 En qué estoy enfocado
+Convertirme en Fullstack Developer
+Construir productos SaaS vendibles
+Generar ingresos con desarrollo web
+Unir tecnología + negocio (esto es clave)
+📊 Proyectos destacados
+🟢 CRM Multiempresa (SaaS)
 
-## 📫 Cómo contactarme
-- **LinkedIn:** *(pronto lo abrís, lo podemos armar juntos)*  
-- **Correo:** *(si querés lo añadimos aquí)*  
+Sistema completo con:
 
----
+Gestión de clientes
+Leads con pipeline
+Trabajos y estados
+Notificaciones
+🟡 Sistema de vuelos (VB.NET + SQL Server)
+Compra de tiquetes
+Selección de asientos
+Panel administrativo
+🔵 Sitios web comerciales
+Restaurantes
+Emprendimientos
+WordPress + HTML
+📈 Mentalidad
 
-💡 *“La disciplina vence al talento cuando el talento no se disciplina.”*
+No busco solo programar…
+busco construir soluciones que generen dinero y valor real.
+
+📫 Contacto
+📍 Liberia, Costa Rica
+💼 LinkedIn: www.linkedin.com/in/cairoperez
+📧 Email: cperez198@outlook.com
